@@ -30,3 +30,9 @@ Este projeto foi muito especial, pois foi meu primeiro contato com o mundo da te
 <p align="left">
   Caso queira trocar entrar em contato: ⤵️
 </p>
+
+<p align="left">
+
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianycmc/)
+</p>
