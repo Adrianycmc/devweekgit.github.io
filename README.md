@@ -5,7 +5,7 @@ Este projeto foi muito especial, pois foi meu primeiro contato com o mundo da te
 <br>
 
 ## 💻 Tecnologias utilizadas
-<img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/HTML.svg" alt="Html5" height="40" width="40"> . <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CSS.svg" alt="Css3" height="40" width="40">
+<img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/HTML.svg" alt="Html5" height="40" width="40"> . <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CSS.svg" alt="Css3" height="40" width="40"> . <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Figma-Dark.svg" alt="Css3" height="40" width="40">
 <br>
 <br>
 
